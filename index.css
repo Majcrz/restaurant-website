@@ -1,0 +1,218 @@
+.body1{
+    background-image:  url(https://www.sydney.com/sites/sydney/files/styles/open_graph/public/2020-12/149739_0.jpg?itok=5peFEA37);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 980px;
+    width:1980px;
+    margin-left: -6px;
+}
+.logo{
+      background-color:rgb(68, 195, 220);
+      height: 60px;
+      width: 1980px;
+      margin-left: -100px;
+      margin-top: 0px;
+}
+.logo1{
+    font-family: 'Monoton', cursive;
+    margin-left: 100px;
+    font-size: 40px;
+    margin-top: -5px;
+    
+}
+.homemade{
+    color: rgb(255, 255, 255);
+    font-size:75px;
+    font-weight:bolder;
+    margin-top: 200px;
+    margin-left: 50px;
+    text-shadow: #FC0 1px 0 10px;
+
+}
+.l1{
+    color: rgb(255, 255, 255);
+    font-size:30px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.learn{
+    color: rgb(255, 255, 255);
+    font-size:30px;
+    margin-top: 100px;
+    margin-left: 50px;
+    text-decoration: underline;
+}
+.menu{
+    background-color: rgb(232, 206, 103);
+    height: 250px;
+    width: 1000px;
+    margin-left: -5px;
+}
+.menu1{
+    color: black;
+    font-size: 100px;
+    font-weight: bolder;
+    margin-top: -180px;
+    margin-left: 550px;
+}
+.img1{
+    background-image: url(https://i.pinimg.com/736x/3d/93/ef/3d93ef4fcf8d20cd72f6a537b3a8720a.jpg);
+    width: 500px;
+    height: 700px;
+    margin-left: 20px;
+    margin-top: -185px;
+    border: 2px solid black;
+}
+.words{
+    color: black;
+    margin-left: 550px;
+    margin-top: -300px;
+}
+.black{
+    background-color: black;
+    width: 760px;
+    height: 100px;
+    margin-top: -245px;
+    margin-left: 523px;
+    border: 00px solid red;
+    border-bottom-left-radius: 150px;
+    margin-top: 300px;
+}
+.white{
+    background-color: rgb(255, 255, 255);
+    width: 760px;
+    height: 100px;
+    margin-left: 530px;
+    border: 00px solid red;
+    border-bottom-left-radius: 150px;
+    margin-top: -120px;
+}
+.red{
+    background-color: rgb(250, 0, 0);
+    height: 300px;
+    width: 30px;
+    margin-left: 1800px;
+    margin-top: -550px;
+}
+.orange{
+    background-color: rgb(237, 137, 24);
+    height: 500px;
+    width: 50px;
+    margin-left: 1750px;
+    margin-top: -400px;
+}
+.img2{
+    background-image: url(https://wallpapercave.com/wp/STQ0z8k.jpg);
+    background-size: cover;
+    width: 500px;
+    height: 600px;
+    margin-left: 1245px;
+    margin-top: -550px;
+    border: 2px solid black;
+}
+.leaf{
+    background-image:  url(https://wallpapercave.com/uwp/uwp1902481.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 950px;
+    width:1980px;
+    margin-left: -6px;
+    margin-top: 150px;
+    
+}
+.learn1{
+    color: coral;
+    margin-left: 550px;
+    margin-top: -900px;
+    font-size: 100px;
+
+}
+.l2{
+    color: #FC0;
+    margin-top: 50px;
+    margin-left: 600px;
+}
+.l3{
+    color: #FC0;
+    margin-top: 10px;
+    margin-left: 800px;
+}
+.l4{
+    font-size: 50px;
+    margin-top: 50px;
+    margin-left: 700px;
+    color: aliceblue;
+}
+.block1{
+    background-color:gray;
+    width: 400px;
+    height: 520px;
+    margin-top: 30px;
+    margin-left: 150px;
+    opacity: 0.5;
+}
+.block2{
+    background-color:rgb(180, 231, 16);
+    width: 400px;
+    height: 520px;
+    margin-top: -520px;
+    margin-left: 780px;
+    opacity: 0.5;
+}
+.block3{
+    background-color:rgb(13, 247, 231);
+    width: 400px;
+    height: 520px;
+    margin-top: -520px;
+    margin-left: 1400px;
+    opacity: 0.5;
+}
+.l5{
+    color: rgb(0, 0, 0);
+    font-size: 100px;
+    margin-top: -500px;
+    margin-left: 320px;
+    font-weight:bolder;
+}
+.l6{
+    color: black;
+    font-size: 50px;
+    margin-left: 230px;
+}
+.l7{
+    color: rgb(255, 255, 255);
+    padding-top: 250px;
+}
+.l8{
+    color: black;
+    font-size: 100px;
+    padding-left: 170px;
+    padding-top: 30px;
+    font-weight: bolder;
+}
+.l9{
+    color: black;
+    font-size: 50px;
+    padding-left: 80px;
+}
+.l10{
+    color: rgb(255, 0, 0);
+    padding-top: 50px;
+}
+.l11{
+    color: black;
+    font-size: 100px;
+    padding-left: 170px;
+    padding-top: 30px;
+    font-weight: bolder;
+}
+.l12{
+    color: black;
+    font-size: 50px;
+    padding-left: 110px;
+}
+.l13{
+    color: rgb(60, 0, 255);
+    padding-top: 50px;
+}
+
